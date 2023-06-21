@@ -1,15 +1,12 @@
 {
   "name": "formatter-currency",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Format Currency for any currency in the world",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Diman12345/formatCurrency.git"
-  },
+  "repository": "git+https://github.com/Diman12345/formatCurrency.git",
   "keywords": [
     "Format",
     "Currency"
