@@ -1,7 +1,7 @@
 # Welcome to Formatter-Currency
 
 Ready for formatter-currency
-version 1.0.0 only format currency to Rp (Indonesia)
+only format currency to Rp (Indonesia)
 1000 => Rp 1.000
 
 Install
