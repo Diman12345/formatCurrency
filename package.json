@@ -1,0 +1,23 @@
+{
+  "name": "formatter-currency",
+  "version": "1.0.0",
+  "description": "Format Currency for any currency in the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diman12345/formatCurrency.git"
+  },
+  "keywords": [
+    "Format",
+    "Currency"
+  ],
+  "author": "Wardiman Perdian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diman12345/formatCurrency/issues"
+  },
+  "homepage": "https://github.com/Diman12345/formatCurrency#readme"
+}
