@@ -1,6 +1,6 @@
 {
   "name": "formatter-currency",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Format Currency for any currency in the world",
   "main": "index.js",
   "scripts": {
